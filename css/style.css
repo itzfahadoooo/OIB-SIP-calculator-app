@@ -12,6 +12,8 @@ body{
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
+    border: 2px solid #504f4f;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.9);
 }
 #display{
     width: 100%;
@@ -19,6 +21,7 @@ body{
     font-size: 5rem;
     text-align: left;
     border: none;
+    border-bottom: 1px solid #504f4f;
     background-color: #000;
     color: white;
 }
@@ -32,7 +35,7 @@ button{
     width: 100px;
     height: 100px;
     border-radius: 50px;
-    border: none;
+    border: 1px solid #8d8c8b;
     background-color: #000;
     color: white;
     font-size: 3rem;
