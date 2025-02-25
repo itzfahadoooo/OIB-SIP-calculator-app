@@ -45,6 +45,7 @@ button {
   font-size: 3rem;
   font-weight: bold;
   cursor: pointer;
+    transition: background-color 0.3s;
 }
 button:hover {
   background-color: hsl(0, 0%, 22%);
