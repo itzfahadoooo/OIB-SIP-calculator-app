@@ -42,7 +42,10 @@ button {
   border: 1px solid #8d8c8b;
   background-color: #000;
   color: white;
+
+  
   font-size: 3rem;
+  
   font-weight: bold;
   cursor: pointer;
     transition: background-color 0.3s;
